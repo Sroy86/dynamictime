@@ -1,2 +1,2 @@
-# dynamictime
+# react-tutorial
 Created with CodeSandbox
